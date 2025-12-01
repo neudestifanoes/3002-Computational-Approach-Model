@@ -1,6 +1,6 @@
 # Impact of Alzheimer’s Pathology on Schaffer Collateral Plasticity
 
-This computational model visualizes the fundamental mechanisms of synaptic plasticity that underlie learning and memory, comparing a healthy human hippocampus against one affected by Alzheimer's Disease (AD). [cite_start]It links the foundational "molecular logic" of memory discovered in model organisms like *Aplysia* (Kandel, 2001) to the specific pathology investigated in our research question: whether therapeutic targeting can restore synaptic stability in the face of AD.
+This computational model visualizes the fundamental mechanisms of synaptic plasticity that underlie learning and memory, comparing a healthy human hippocampus against one affected by Alzheimer's Disease (AD). It links the foundational "molecular logic" of memory discovered in model organisms like *Aplysia* (Kandel, 2001) to the specific pathology investigated in our research question: whether therapeutic targeting can restore synaptic stability in the face of AD.
 
 The **x-axis represents Time (s)**, and the **y-axis represents Synaptic Weight**, a proxy for connection strength between CA3 and CA1 neurons in the Schaffer collateral pathway.
 
@@ -11,8 +11,8 @@ The blue line demonstrates the functional "balance between LTP and LTD" required
 
 ### 2. Alzheimer's Disease Model (Dashed Red Line)
 The red dashed line illustrates the systems-level cause of pathology described in our summary:
-* **Failed LTP (40-45s):** During the same high-frequency stimulation, the synaptic weight fails to rise significantly. [cite_start]This visualizes how AD "physically disrupt[s] synaptic connections via amyloid-beta plaques". [cite_start]The presence of amyloid-beta impairs the LTP mechanism, meaning the "strong signals" from CA3 cannot be effectively strengthened at the CA1 synapse[cite: 34].
-* **Synaptic Instability:** Because the synapse cannot undergo potentiation (strengthening), the circuit loses its ability to encode new long-term memories. [cite_start]This supports our research focus on finding targets to "slow down or stop the early effects" of this disruption[cite: 81].
+* **Failed LTP (40-45s):** During the same high-frequency stimulation, the synaptic weight fails to rise significantly. This visualizes how AD "physically disrupt[s] synaptic connections via amyloid-beta plaques". The presence of amyloid-beta impairs the LTP mechanism, meaning the "strong signals" from CA3 cannot be effectively strengthened at the CA1 synapse.
+* **Synaptic Instability:** Because the synapse cannot undergo potentiation (strengthening), the circuit loses its ability to encode new long-term memories. This supports our research focus on finding targets to "slow down or stop the early effects" of this disruption.
 
 ### Conclusion
 By overlaying these two conditions, the model highlights that memory loss in Alzheimer's is not just a passive decay, but an active failure of the synaptic plasticity mechanisms (LTP) that are evolutionarily conserved from simple organisms like *Aplysia* to humans
