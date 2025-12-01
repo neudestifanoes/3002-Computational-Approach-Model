@@ -15,7 +15,7 @@ The red dashed line illustrates the systems-level cause of pathology described i
 * **Synaptic Instability:** Because the synapse cannot undergo potentiation (strengthening), the circuit loses its ability to encode new long-term memories. [cite_start]This supports our research focus on finding targets to "slow down or stop the early effects" of this disruption[cite: 81].
 
 ### Conclusion
-[cite_start]By overlaying these two conditions, the model highlights that memory loss in Alzheimer's is not just a passive decay, but an active failure of the synaptic plasticity mechanisms (LTP) that are evolutionarily conserved from simple organisms like *Aplysia* to humans[cite: 63, 65].
+By overlaying these two conditions, the model highlights that memory loss in Alzheimer's is not just a passive decay, but an active failure of the synaptic plasticity mechanisms (LTP) that are evolutionarily conserved from simple organisms like *Aplysia* to humans
 
 ---
 ### Citations
